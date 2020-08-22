@@ -1,4 +1,5 @@
 # subtask
 # Feature branch 1
 First feature branch commit1
-Second feature branch commit2
+# Feature branch 2
+Second feature branch commit
